@@ -7,7 +7,9 @@
     // --------------------------------------------------------
     // Colors (Branding Core)
     // --------------------------------------------------------
-  
+  div[data-type="StoreFacetRange"][data-testid="fs-filter-accordion"] {
+      display: none;
+    }
     // PALETTE
     --fs-color-main-0: #f71963;
     --fs-color-main-1: #da2aaa;
