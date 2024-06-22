@@ -48,9 +48,9 @@ module.exports = {
   // Production URLs
   storeUrl: "https://bootcampbra55fs.vtex.app",
   secureSubdomain: "https://secure.vtexfaststore.com/",
-  checkoutUrl: "https://secure.vtexfaststore.com/checkout",
-  loginUrl: "https://secure.vtexfaststore.com/api/io/login",
-  accountUrl: "https://secure.vtexfaststore.com/api/io/account",
+  checkoutUrl: "bootcampbra55fs.myvtex.com/checkout",
+  loginUrl: "bootcampbra55fs.myvtex.com/login",
+  accountUrl: "bootcampbra55fs.myvtex.com/account",
 
   previewRedirects: {
     home: '/',
